@@ -1,6 +1,6 @@
 # CTIS164 Project2 Calculation Of Intersections
 
-First project for CTIS164 Technical Mathematics with Programming course.
+Second project for CTIS164 Technical Mathematics with Programming course.
 
 Written in C/C++ using OpenGL and GLUT libraries.
  
