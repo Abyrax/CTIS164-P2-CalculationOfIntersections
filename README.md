@@ -1,4 +1,4 @@
-# CTIS164 Project2 Calculation Of Intersections
+# CTIS164 Project2 - Calculation Of Intersections
 
 Second project for CTIS164 Technical Mathematics with Programming course.
 
